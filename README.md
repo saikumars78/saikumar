@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/alpharsai" target="blank"><img src="https://img.shields.io/twitter/follow/alpharsai?logo=twitter&style=for-the-badge" alt="alpharsai" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript Notes**
+- 🔭 I’m currently working on **JavaScript Notes.**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS.**
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **HTML,CSS,JavaScript.**
 
-- 📫 How to reach me **asaikumar975@gmail.com**
+- 📫 How to reach me **asaikumar975@gmail.com.**
 
-- ⚡ Fun fact **Self learner**
+- ⚡ Fun fact **Self Learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
